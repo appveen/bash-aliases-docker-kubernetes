@@ -1,2 +1,3 @@
-# bash-aliases-docker-kubernetes
-Bash aliases that we use for Docker and Kubernetes.
+# Docker and Kubernetes bash aliases
+
+These are the aliases that we use on our dev machines. Please check the individual files for details.
